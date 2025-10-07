@@ -67,9 +67,9 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) k
   - TCP/SSL
-  - UDP
+  - UDP k
   - TLS
   - Websocket
   - SSE
@@ -77,23 +77,23 @@
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing k
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS k
   - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging k
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing k
+  - CI/CD k
   - Readable
   - Writable
   - Transform
@@ -103,14 +103,14 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository u
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` k
   - `error.cause`
   - `error.code`
   - `error.message`
