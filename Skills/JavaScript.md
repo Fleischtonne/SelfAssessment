@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `Object` k
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
+  - `BigInt` k
+  - `String` k
+  - `Symbol` k
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
+  - `this` k
+  - `instanceof` k
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` k
   - Destructuring
   - Generators
   - Iterators
@@ -29,11 +29,11 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters k
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators k
+  - Logical operators k
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
@@ -58,26 +58,26 @@
   - Static class fields
   - Private class fields
   - Private class methods
-- Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+- Statements 
+  - `if` k
+  - `while` k
+  - `do..while` k
+  - `for` k
+  - `for..in` k
+  - `for..of` k
+  - `for await` k
+  - `throw` k
+  - `break` k
+  - `continue` k
+  - `import` k
+  - `export` 
+  - `label` k
+  - `try..catch` k
+  - `switch` k
+  - `class` k
+  - `extends` k
+  - `with` k
+  - `new` k
 - Functions
   - Arrow function
   - Async function
@@ -88,25 +88,25 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` k
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
+  - `Array` k
+  - `Map` h
+  - `Set` h
+  - `WeakMap` 
   - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy` h
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` h
+  - `Math` h
   - `Reflect`
-  - `Error`
+  - `Error` h
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
