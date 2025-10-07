@@ -2,51 +2,51 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming h
-  - Structured programming h
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming u
-  - Object-based programming h
-  - Generic programming h
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming h
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
-  - Automata-based programming h
+  - Automata-based programming: 👂 heard
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming k
+  - Metaprogramming: 🎓 known
   - Actor model
   - Lambda calculus
-  - Black box k
+  - Black box: 🎓 known
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method 
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance k
-  - Parent class u
-  - Polymorphism k
-  - Abstract class u
-  - Interface k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🎓 known
+  - Parent class: 🖐️ used
+  - Polymorphism: 🎓 known
+  - Abstract class: 🖐️ used
+  - Interface: 🎓 known
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance u
-  - Introspection k
-  - Reflection k
+  - Instance: 🖐️ used
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
   - The diamond problem
 - GRASP
   - Information expert
@@ -65,12 +65,12 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method k
+  - Factory Method: 🎓 known
   - Abstract Factory
-  - Adapter k
-  - Observer k
-  - Strategy k
-  - Facade k
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
   - Proxy
   - Chain of Responsibility
   - Command
@@ -79,13 +79,13 @@
   - Bridge
   - Builder
   - Prototype
-  - Composite k
+  - Composite: 🎓 known
   - Decorator
   - Flyweight
   - Mediator
   - Memento
-  - Template Method k
-  - Visitor k
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
   - Reactor
   - Active object
   - Delegation

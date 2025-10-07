@@ -1,101 +1,101 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling k
-  - Subject domain 
-  - Algorithm k
-  - Syntax k
-  - Semantics k
-  - Abstraction k
-  - Paradigm h
-  - Programm k
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
+  - Semantics: 🎓 known
+  - Abstraction: 🎓 known
+  - Paradigm: 👂 heard
+  - Programm: 🎓 known
   - Programming paradigm
-  - Programming language u
-  - Contract k
-  - Module k
-  - Library k
-  - Package k
-  - Component k
-  - Framework k
-  - Platform k
-  - Source code k
-  - Object code k
-  - Machine code k
-  - Microcode k
-  - Software engineering k
+  - Programming language: 🖐️ used
+  - Contract: 🎓 known
+  - Module: 🎓 known
+  - Library: 🎓 known
+  - Package: 🎓 known
+  - Component: 🎓 known
+  - Framework: 🎓 known
+  - Platform: 🎓 known
+  - Source code: 🎓 known
+  - Object code: 🎓 known
+  - Machine code: 🎓 known
+  - Microcode: 🎓 known
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
-  - Defensive programming k
-  - Don't repeat yourself (DRY) h
+  - Defensive programming: 🎓 known
+  - Don't repeat yourself (DRY): 👂 heard
   - KISS principle
 - Syntax and concepts
-  - Value k
-  - Identifier k
-  - Variable k
-  - Constant k
-  - Scalar h
-  - Literal 
-  - Expression k
-  - Heap k
-  - Function k
-  - Procedure k
-  - Method k
-  - Class k
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
+  - Scalar: 👂 heard
+  - Literal
+  - Expression: 🎓 known
+  - Heap: 🎓 known
+  - Function: 🎓 known
+  - Procedure: 🎓 known
+  - Method: 🎓 known
+  - Class: 🎓 known
   - Prototypek
-  - Event k
-  - Type k
-  - Flag k
+  - Event: 🎓 known
+  - Type: 🎓 known
+  - Flag: 🎓 known
   - Lexical scope
-  - Code block k
-  - Conditions k
-  - Loops k
-  - Assignment k
-  - Regular expression k
-  - Interface k
-  - Namespaces k
+  - Code block: 🎓 known
+  - Conditions: 🎓 known
+  - Loops: 🎓 known
+  - Assignment: 🎓 known
+  - Regular expression: 🎓 known
+  - Interface: 🎓 known
+  - Namespaces: 🎓 known
   - Call stack
-  - Naming conventions k
-  - Coding conventions k
+  - Naming conventions: 🎓 known
+  - Coding conventions: 🎓 known
   - Camel case
   - Snake case
   - Kebab case
-  - Trailing commas k
-  - Return early h
+  - Trailing commas: 🎓 known
+  - Return early: 👂 heard
   - Fail-fast
 - Types
-  - Primitive types k
-  - Reference types k
-  - Type systems k
-  - Strong typing k
-  - Weak typing k
-  - Duck typing k
-  - Static typing k
-  - Dynamic typing k
-  - Nominal typing k
-  - Structural typing k
-  - Explicit typing k
-  - Type inference k
-  - Covariance h
-  - Contravariance h
+  - Primitive types: 🎓 known
+  - Reference types: 🎓 known
+  - Type systems: 🎓 known
+  - Strong typing: 🎓 known
+  - Weak typing: 🎓 known
+  - Duck typing: 🎓 known
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
+  - Nominal typing: 🎓 known
+  - Structural typing: 🎓 known
+  - Explicit typing: 🎓 known
+  - Type inference: 🎓 known
+  - Covariance: 👂 heard
+  - Contravariance: 👂 heard
 - Functions
-  - Signature k
-  - Argument k
-  - Parameter k
+  - Signature: 🎓 known
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
-  - Side effects h
+  - Side effects: 👂 heard
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion k
+  - Recursion: 🎓 known
   - Tail call optimisation
   - Callback
   - Listener
-  - Composition k
+  - Composition: 🎓 known
   - Pipe
   - Memoize
   - Wrapper
@@ -105,69 +105,69 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure 
+  - Array: 🖐️ used
+  - Structure
   - Record
-  - Enum k
-  - Instance k
-  - Object u
+  - Enum: 🎓 known
+  - Instance: 🎓 known
+  - Object: 🖐️ used
   - Collection
   - Set
-  - Hash table k
-  - Linked list u
-  - Doubly list k
+  - Hash table: 🎓 known
+  - Linked list: 🖐️ used
+  - Doubly list: 🎓 known
   - Unrolled list
-  - Circular list k
-  - Queue k
-  - Stack k
+  - Circular list: 🎓 known
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
-  - Tree k
-  - Graph k
+  - Tree: 🎓 known
+  - Graph: 🎓 known
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing u
+  - String parsing: 🖐️ used
   - JSON
   - JSON5
-  - YAML h
+  - YAML: 👂 heard
 - Networking
-  - DNS k
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4 k
-  - IPv6 k
-  - NAT k
-  - URL h
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 🎓 known
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
-  - Compiler u
-  - Just-in-time compilation k
-  - Ahead-of-time compilation k
+  - Compiler: 🖐️ used
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter k
-  - Linker k
-  - Dynamic linking k
-  - Static linking k
-  - Runtime k
-  - Virtual machine k
-  - Register-based VM k
-  - Stack-based VM k
-  - Containerization k
-  - Debugger u
-  - Tracing k
-  - Garbage collection k
-  - Refactoring k
-  - Code review k
-  - Exception k
-  - Unittesting k
-  - git u
-  - Github u
-  - Docker k
-  - Kubernetes h
+  - Interpreter: 🎓 known
+  - Linker: 🎓 known
+  - Dynamic linking: 🎓 known
+  - Static linking: 🎓 known
+  - Runtime: 🎓 known
+  - Virtual machine: 🎓 known
+  - Register-based VM: 🎓 known
+  - Stack-based VM: 🎓 known
+  - Containerization: 🎓 known
+  - Debugger: 🖐️ used
+  - Tracing: 🎓 known
+  - Garbage collection: 🎓 known
+  - Refactoring: 🎓 known
+  - Code review: 🎓 known
+  - Exception: 🎓 known
+  - Unittesting: 🎓 known
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🎓 known
+  - Kubernetes: 👂 heard
   - GCC
   - LLVM
 - Antipatterns
@@ -202,38 +202,38 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode k
+  - Bytecode: 🎓 known
   - V8
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts k
-  - Drivers k
-  - Kernel k
-  - Ring k
-  - Virtual memory k
-  - File system k
-  - Linux k
-  - Unix k
+  - Interrupts: 🎓 known
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
+  - Ring: 🎓 known
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
+  - Linux: 🎓 known
+  - Unix: 🎓 known
   - BSD
-  - MacOS h
-  - Windows u
-  - Real-time OS k
-  - Embedded OS k
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
+  - Real-time OS: 🎓 known
+  - Embedded OS: 🎓 known
 - Standards
-  - ASCII u
+  - ASCII: 🖐️ used
   - Escape sequence
   - RFC
   - IETF
-  - IANA k
-  - IEEE k
+  - IANA: 🎓 known
+  - IEEE: 🎓 known
   - Base64
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8 k
+  - UTF-8: 🎓 known
   - W3C
   - ODMG

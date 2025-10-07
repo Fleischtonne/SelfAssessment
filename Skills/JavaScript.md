@@ -1,43 +1,43 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` u
-  - `String` u
-  - `Symbol` k
-  - `Infinity` u
-  - `NaN` u
-  - `undefined` u
-  - `null` u
-  - `this` u
-  - `instanceof` u
-  - `...spread` k
-  - `...rest` k
-  - `typeof` u
-  - Destructuring k
-  - Generators 
-  - Iterators 
-  - Async generator 
-  - Async iterator 
-  - Chaining 
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 🎓 known
+  - `...rest`: 🎓 known
+  - `typeof`: 🖐️ used
+  - Destructuring: 🎓 known
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
   - Optional chainingh
   - IIFE
   - Async IIFE
-  - `global` u
-  - `globalThis` h
+  - `global`: 🖐️ used
+  - `globalThis`: 👂 heard
   - `window`
-  - Getters and setters u
+  - Getters and setters: 🖐️ used
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
-  - Logical Assignment k
-  - Bitwise operators k
-  - Ternary operator 
-  - `void` u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🎓 known
+  - Bitwise operators: 🎓 known
+  - Ternary operator
+  - `void`: 🖐️ used
   - `yield`
   - `await`
   - Template literal
@@ -45,39 +45,39 @@
   - Hoisting
   - `delete`
   - `in`
-  - `super` u
-  - `eval` k
-  - `static` u
-  - `Number.parseInt` u
-  - `Number.parseFloat` u
+  - `super`: 🖐️ used
+  - `eval`: 🎓 known
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields h
-  - Static class fields h
-  - Private class fields h
-  - Private class methods h
+  - Instance class fields: 👂 heard
+  - Static class fields: 👂 heard
+  - Private class fields: 👂 heard
+  - Private class methods: 👂 heard
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` u
-  - `for..of` u
-  - `for await` k
-  - `throw` u
-  - `break` u
-  - `continue` u
-  - `import` u
-  - `export` u
-  - `label` u
-  - `try..catch` u
-  - `switch` u
-  - `class` u
-  - `extends` u
-  - `with` u
-  - `new` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 🎓 known
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
+  - `label`: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
+  - `with`: 🖐️ used
+  - `new`: 🖐️ used
 - Functions
   - Arrow function
   - Async function
@@ -90,21 +90,21 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array` u
-  - `Map` k
-  - `Set` u
-  - `WeakMap` h
-  - `WeakSet` h
-  - Typed arrays k
+  - `Array`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🖐️ used
+  - `WeakMap`: 👂 heard
+  - `WeakSet`: 👂 heard
+  - Typed arrays: 🎓 known
   - Mixins
-  - `Object.assign` k
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date` u
-  - `Math` u
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` u
+  - `Error`: 🖐️ used
   - `Atomics`
   - `JSON`
   - `WeakRef`
@@ -112,7 +112,7 @@
   - `Intl`
   - `Promise`
   - `console`
-  - Timers 
+  - Timers
 - Infrastructure
   - V8
   - Node.js
