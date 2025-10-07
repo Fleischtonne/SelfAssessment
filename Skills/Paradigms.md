@@ -2,12 +2,12 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming h
-  - Structured programming h
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming u
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -18,35 +18,35 @@
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming h
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
-  - Black box h
-  - Information hiding h
+  - Black box: 👂 heard
+  - Information hiding: 👂 heard
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition h
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method h
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance h
-  - Parent class u
-  - Polymorphism k
-  - Abstract class u
-  - Interface k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 👂 heard
+  - Parent class: 🖐️ used
+  - Polymorphism: 🎓 known
+  - Abstract class: 🖐️ used
+  - Interface: 🎓 known
   - Encapsulation
   - Hidden class
   - Object form
   - Instance
-  - Introspection k
-  - Reflection k
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
   - The diamond problem
 - GRASP
   - Information expert
@@ -65,12 +65,12 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method k
+  - Factory Method: 🎓 known
   - Abstract Factory
   - Adapter
-  - Observer k
-  - Strategy k
-  - Facade k
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
   - Proxy
   - Chain of Responsibility
   - Command
@@ -79,13 +79,13 @@
   - Bridge
   - Builder
   - Prototype
-  - Composite k
+  - Composite: 🎓 known
   - Decorator
   - Flyweight
   - Mediator
   - Memento
-  - Template Method k
-  - Visitor k
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
   - Reactor
   - Active object
-  - Delegation k
+  - Delegation: 🎓 known

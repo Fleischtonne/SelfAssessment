@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery k
+  - Backup and recovery: 🎓 known
   - Database scalability
-  - Relational databases h
+  - Relational databases: 👂 heard
   - Key-value store
   - Tuple store
   - Graph databases
@@ -22,62 +22,62 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram k
+  - Entity-Relationship Diagram: 🎓 known
   - Normal forms
-  - Indexing k
-  - Primary keys k
-  - Foreign keys k
+  - Indexing: 🎓 known
+  - Primary keys: 🎓 known
+  - Foreign keys: 🎓 known
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions k
+  - SQL functions: 🎓 known
   - Materialized views
   - Replications
-  - Virtualization k
+  - Virtualization: 🎓 known
 - SQL u
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
-  - `LIMIT` 
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` u
-  - `GROUP BY` u
-  - `HAVING` u
-  - `EXISTS` u
-  - `JOIN` u
-  - `INNER JOIN` u
-  - `LEFT JOIN` u
-  - `RIGHT JOIN` u
-  - `UNION` u
-  - `DISTINCT` u
-  - `WHERE` u
-  - `LIKE` u
-  - `IN` u
-  - `BETWEEN` u
-  - `CREATE TABLE` u
-  - `ALTER TABLE` u
-  - `DROP TABLE` u
-  - `PRIMARY KEY` u
-  - `FOREIGN KEY` u
-  - `CHECK` u
-  - `DEFAULT` u
-  - `INDEX` 
-  - `UNIQUE` 
-  - `GRANT` 
-  - `REVOKE` 
-  - `DENY` 
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 🖐️ used
+  - `DEFAULT`: 🖐️ used
+  - `INDEX`
+  - `UNIQUE`
+  - `GRANT`
+  - `REVOKE`
+  - `DENY`
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle h
-  - MySQL k
-  - MariaDB h
-  - MS SQL Server u
-  - Redis 
+  - Oracle: 👂 heard
+  - MySQL: 🎓 known
+  - MariaDB: 👂 heard
+  - MS SQL Server: 🖐️ used
+  - Redis
   - Rabbit
-  - MongoDB h
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2

@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop h
-  - `try..catch` u
-  - Non-blocking 
-  - Async I/O 
+  - Event loop: 👂 heard
+  - `try..catch`: 🖐️ used
+  - Non-blocking
+  - Async I/O
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -13,14 +13,14 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions k
-  - Dead locks k
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread k
-  - Process k
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
   - Callbacks
   - Callback-last-error-first
@@ -49,14 +49,14 @@
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
-  - Readable k
-  - Writable k
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore k
-  - Mutex k
+  - Semaphore: 🎓 known
+  - Mutex: 🎓 known
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers

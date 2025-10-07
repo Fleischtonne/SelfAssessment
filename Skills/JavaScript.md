@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object` k
-  - `Function` k
-  - `Boolean` k
-  - `Number` k
-  - `BigInt` k
-  - `String` k
-  - `Symbol` k
-  - `Infinity` k
-  - `NaN` k
-  - `undefined` k
-  - `null` k
-  - `this` k
-  - `instanceof` k
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
+  - `String`: 🎓 known
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 🎓 known
+  - `instanceof`: 🎓 known
   - `...spread`
   - `...rest`
-  - `typeof` k
+  - `typeof`: 🎓 known
   - Destructuring
   - Generators
   - Iterators
@@ -29,11 +29,11 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters k
+  - Getters and setters: 🎓 known
   - `__proto__`
   - `prototype`
-  - Equality operators k
-  - Logical operators k
+  - Equality operators: 🎓 known
+  - Logical operators: 🎓 known
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
@@ -58,26 +58,26 @@
   - Static class fields
   - Private class fields
   - Private class methods
-- Statements 
-  - `if` k
-  - `while` k
-  - `do..while` k
-  - `for` k
-  - `for..in` k
-  - `for..of` k
-  - `for await` k
-  - `throw` k
-  - `break` k
-  - `continue` k
-  - `import` k
-  - `export` 
-  - `label` k
-  - `try..catch` k
-  - `switch` k
-  - `class` k
-  - `extends` k
-  - `with` k
-  - `new` k
+- Statements
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`: 🎓 known
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`: 🎓 known
+  - `export`
+  - `label`: 🎓 known
+  - `try..catch`: 🎓 known
+  - `switch`: 🎓 known
+  - `class`: 🎓 known
+  - `extends`: 🎓 known
+  - `with`: 🎓 known
+  - `new`: 🎓 known
 - Functions
   - Arrow function
   - Async function
@@ -88,25 +88,25 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` k
+  - `return`: 🎓 known
 - Data structures
-  - `Array` k
-  - `Map` h
-  - `Set` h
-  - `WeakMap` 
+  - `Array`: 🎓 known
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
+  - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy` h
+  - `Proxy`: 👂 heard
   - `RegExp`
-  - `Date` h
-  - `Math` h
+  - `Date`: 👂 heard
+  - `Math`: 👂 heard
   - `Reflect`
-  - `Error` h
+  - `Error`: 👂 heard
   - `Atomics`
-  - `JSON` h
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`

@@ -2,8 +2,8 @@
 
 - Application structure
   - Separation of concerns
-  - Inversion of Control k
-  - Dependency Injection k
+  - Inversion of Control: 🎓 known
+  - Dependency Injection: 🎓 known
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
@@ -27,7 +27,7 @@
   - Quality
   - Availability
   - Flexibility
-  - Law of Demeter (LoD) h
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
@@ -35,41 +35,41 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming k
-  - Inversion of control (IoC) k
-  - Dependency injection (DI) k
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent k
+  - Agent: 🎓 known
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram k
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML k
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems k
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing k
+  - Load balancing: 🎓 known
   - Gateways
   - On-premises
-  - IaaS 
-  - PaaS h
-  - SaaS h
+  - IaaS
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor h
+  - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design h
+  - System design: 👂 heard
   - Process modelling
   - Data modelling
   - Solution components
@@ -85,12 +85,12 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs h
-  - Enterprise strategy h
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope h
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
@@ -100,6 +100,6 @@
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law h
+  - Conways Law: 👂 heard
   - Quality assurance
   - Engineering Hygiene
