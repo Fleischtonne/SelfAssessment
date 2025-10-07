@@ -2,8 +2,8 @@
 
 - Application structure
   - Separation of concerns
-  - Inversion of Control
-  - Dependency Injection
+  - Inversion of Control k
+  - Dependency Injection k
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
@@ -27,7 +27,7 @@
   - Quality
   - Availability
   - Flexibility
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD) h
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
@@ -35,41 +35,41 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Metaprogramming k
+  - Inversion of control (IoC) k
+  - Dependency injection (DI) k
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent k
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram k
   - IDEF1X
-  - UML
+  - UML k
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems k
   - High-intensive computing
-  - Load balancing
+  - Load balancing k
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS 
+  - PaaS h
+  - SaaS h
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor
+  - Bus factor h
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design h
   - Process modelling
   - Data modelling
   - Solution components
@@ -85,12 +85,12 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs h
+  - Enterprise strategy h
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope h
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
@@ -100,6 +100,6 @@
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law
+  - Conways Law h
   - Quality assurance
   - Engineering Hygiene
