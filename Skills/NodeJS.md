@@ -67,9 +67,9 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) k
+  - TCP/SSL k
+  - UDP k
   - TLS
   - Websocket
   - SSE
@@ -77,13 +77,13 @@
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing k
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS k
   - SQL injection
   - noDelay
   - keep-alive
@@ -92,8 +92,8 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing h
+  - CI/CD h
   - Readable
   - Writable
   - Transform
