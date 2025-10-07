@@ -2,51 +2,51 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Imperative programming h
+  - Structured programming h
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Object-oriented programming u
+  - Object-based programming h
+  - Generic programming h
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming h
   - Reactive programming
   - Functional-reactive (FRP)
-  - Automata-based programming
+  - Automata-based programming h
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming k
   - Actor model
   - Lambda calculus
-  - Black box
+  - Black box k
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method 
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance k
+  - Parent class u
+  - Polymorphism k
+  - Abstract class u
+  - Interface k
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
-  - Introspection
-  - Reflection
+  - Instance u
+  - Introspection k
+  - Reflection k
   - The diamond problem
 - GRASP
   - Information expert
@@ -65,12 +65,12 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method
+  - Factory Method k
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Adapter k
+  - Observer k
+  - Strategy k
+  - Facade k
   - Proxy
   - Chain of Responsibility
   - Command
@@ -79,13 +79,13 @@
   - Bridge
   - Builder
   - Prototype
-  - Composite
+  - Composite k
   - Decorator
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
-  - Visitor
+  - Template Method k
+  - Visitor k
   - Reactor
   - Active object
   - Delegation
