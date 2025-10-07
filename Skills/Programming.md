@@ -1,64 +1,64 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model k
+  - Modeling k
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Algorithm k
+  - Syntax k
+  - Semantics k
+  - Abstraction k
   - Paradigm
-  - Programm
+  - Programm k
   - Programming paradigm
   - Programming language
   - Contract
   - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Library k
+  - Package k
+  - Component k
+  - Framework k
   - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
+  - Source code k
+  - Object code k
+  - Machine code k
+  - Microcode k
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) k
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value k
+  - Identifier k
+  - Variable k
+  - Constant k
+  - Scalar k
   - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Expression k
+  - Heap k
+  - Function k
+  - Procedure k
+  - Method k
+  - Class k
+  - Prototype k
+  - Event k
+  - Type k
+  - Flag k
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block k
+  - Conditions k
+  - Loops k
+  - Assignment k
   - Regular expression
-  - Interface
-  - Namespaces
+  - Interface k
+  - Namespaces 
   - Call stack
-  - Naming conventions
-  - Coding conventions
+  - Naming conventions k
+  - Coding conventions k
   - Camel case
   - Snake case
   - Kebab case
@@ -81,9 +81,9 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature k
+  - Argument k
+  - Parameter k
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,69 +105,69 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Arrayk k
+  - Structure 
   - Record
-  - Enum
-  - Instance
-  - Object
+  - Enum k
+  - Instance k
+  - Object k
   - Collection
   - Set
-  - Hash table
-  - Linked list
+  - Hash table k
+  - Linked list k
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue k
+  - Stack k
   - Deque
-  - Tree
-  - Graph
+  - Tree k
+  - Graph k
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
+  - String parsing k
   - JSON
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS k
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 k
+  - IPv6 k
+  - NAT k
+  - URL k
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler k
+  - Just-in-time compilation k
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
+  - Interpreter k
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
+  - Runtime k
+  - Virtual machine k
+  - Register-based VM k
+  - Stack-based VM k
   - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
+  - Debugger k
+  - Tracing k
+  - Garbage collection k
+  - Refactoring k
+  - Code review k
+  - Exception k
+  - Unittesting k
+  - git k
+  - Github k
+  - Docker k
+  - Kubernetes h
   - GCC
   - LLVM
 - Antipatterns
@@ -202,38 +202,38 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode h
   - V8
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Interrupts k
+  - Drivers k
+  - Kernel k
+  - Ring k
+  - Virtual memory k
+  - File system k
+  - Linux k
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
-  - Embedded OS
+  - Embedded OS k
 - Standards
-  - ASCII
+  - ASCII k
   - Escape sequence
   - RFC
   - IETF
-  - IANA
-  - IEEE
+  - IANA k
+  - IEEE k
   - Base64
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 k
   - W3C
   - ODMG
