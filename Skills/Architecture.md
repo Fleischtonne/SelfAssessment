@@ -1,9 +1,9 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
-  - Inversion of Control
-  - Dependency Injection
+  - Separation of concerns h
+  - Inversion of Control k
+  - Dependency Injection k
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
@@ -11,33 +11,33 @@
   - SOLID
   - CQS
   - Modularity
-  - Subsystems
-  - Directories
+  - Subsystems h
+  - Directories h
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage h
   - Cohesion
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Quality h
+  - Availability h
+  - Flexibility h
+  - Law of Demeter (LoD) h
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer h
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Metaprogramming k
+  - Inversion of control (IoC) k
+  - Dependency injection (DI) k
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -48,30 +48,30 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram k
   - IDEF1X
-  - UML
+  - UML k
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems k
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing k
+  - Gateways k
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS h
   - FaaS clouds
-  - Serverless
+  - Serverless h
   - Vendor lock-in
-  - Bus factor
+  - Bus factor h
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
+  - Solution capabilities 
+  - System design h
+  - Process modelling h
+  - Data modelling h
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
@@ -85,21 +85,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs h
+  - Enterprise strategy h
   - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Enterprise vision h
+  - Enterprise capabilities h
+  - Project scope h
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
   - Process choreography
   - Service orchestration
-  - Data warehouse
+  - Data warehouse h
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law
+  - Conways Law h
   - Quality assurance
   - Engineering Hygiene
