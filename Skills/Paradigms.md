@@ -2,51 +2,51 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
-  - Automata-based programming
+  - Automata-based programming: 👂 heard
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming: 🎓 known
   - Actor model
   - Lambda calculus
-  - Black box
+  - Black box: 🎓 known
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🎓 known
+  - Parent class: 🖐️ used
+  - Polymorphism: 🎓 known
+  - Abstract class: 🖐️ used
+  - Interface: 🎓 known
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
-  - Introspection
-  - Reflection
+  - Instance: 🖐️ used
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
   - The diamond problem
 - GRASP
   - Information expert
@@ -65,12 +65,12 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method
+  - Factory Method: 🎓 known
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
   - Proxy
   - Chain of Responsibility
   - Command
@@ -79,13 +79,13 @@
   - Bridge
   - Builder
   - Prototype
-  - Composite
+  - Composite: 🎓 known
   - Decorator
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
-  - Visitor
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
   - Reactor
   - Active object
   - Delegation

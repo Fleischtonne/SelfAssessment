@@ -1,8 +1,8 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
+  - Strengths and weaknesses of .NET: 👂 heard
+  - Stateful and stateless services: 👂 heard
   - Asynchronous and synchronous programming
   - Task-based asynchronous pattern
   - Garbage collection in .NET
@@ -19,11 +19,11 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
+  - Command line interface (CLI) tools: 🖐️ used
   - .NET CLI
-  - Windows Services and Linux Daemons
+  - Windows Services and Linux Daemons: 🖐️ used
   - Hosting and Deployment models
-  - IIS and Kestrel web server
+  - IIS and Kestrel web server: 👂 heard
   - Environment variables and configuration
   - File system I/O operations
   - Multithreading with Task Parallel Library (TPL)
@@ -37,20 +37,20 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
+  - HTTP/HTTPS support: 👂 heard
+  - WebSockets for real-time communication: 👂 heard
+  - TCP/UDP networking: 🖐️ used
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Serialization and deserialization (JSON, XML): 👂 heard
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
-  - Logging and tracing
+  - Logging and tracing: 🖐️ used
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies: 👂 heard
   - Performance profiling and analysis
 - Data Access and ORM
   - Entity Framework Core
@@ -60,7 +60,7 @@
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
-  - Exception handling in .NET
+  - Exception handling in .NET: 👂 heard
   - Custom error classes
   - Debugging and diagnostic tools
   - Profiling and performance analysis
@@ -78,10 +78,10 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 👂 heard
   - Reflection and dynamic programming
-  - Data types and collections
+  - Data types and collections: 🎓 known
   - Generics and extension methods
   - Attributes and annotations
   - Interoperability with other .NET languages
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity: 👂 heard
 - Web development
   - ASP.NET Core
   - Blazor

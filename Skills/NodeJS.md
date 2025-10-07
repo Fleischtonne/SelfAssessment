@@ -67,9 +67,9 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S): 🎓 known
   - TCP/SSL
-  - UDP
+  - UDP: 🎓 known
   - TLS
   - Websocket
   - SSE
@@ -77,23 +77,23 @@
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing: 🎓 known
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 🎓 known
   - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🎓 known
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing: 🎓 known
+  - CI/CD: 🎓 known
   - Readable
   - Writable
   - Transform
@@ -103,14 +103,14 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 🎓 known
   - `error.cause`
   - `error.code`
   - `error.message`

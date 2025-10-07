@@ -1,9 +1,9 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
-  - Inversion of Control
-  - Dependency Injection
+  - Separation of concerns: 👂 heard
+  - Inversion of Control: 🎓 known
+  - Dependency Injection: 🎓 known
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
@@ -11,33 +11,33 @@
   - SOLID
   - CQS
   - Modularity
-  - Subsystems
-  - Directories
+  - Subsystems: 👂 heard
+  - Directories: 👂 heard
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 👂 heard
   - Cohesion
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer: 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🎓 known
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -48,30 +48,30 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems: 🎓 known
   - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Load balancing: 🎓 known
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless
+  - Serverless: 👂 heard
   - Vendor lock-in
-  - Bus factor
+  - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
@@ -85,21 +85,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
   - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
   - Process choreography
   - Service orchestration
-  - Data warehouse
+  - Data warehouse: 👂 heard
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law
+  - Conways Law: 👂 heard
   - Quality assurance
   - Engineering Hygiene
